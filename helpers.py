@@ -146,3 +146,8 @@ def load_challenge_data(index):
     filename = f"data/kymograph_noisy_{index}.npy"
     data = np.load(filename)
     return data
+
+def load_challenge_data_multiple_particles(index):
+    filename = f"data/kymograph_noisy_multiple_particles_{index}.npy"
+    data = np.load(filename)
+    return data
