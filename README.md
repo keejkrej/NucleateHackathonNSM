@@ -31,6 +31,6 @@ Your goal: Replace the naive `find_max_subpixel` tracker with smarter algorithms
 
 ## Literature and links
 
-Website of NSM inventor Envue: https://www.envue-technologies.com/technology
-Nature Paper: https://www.nature.com/articles/s41592-022-01491-6
-Challenge data: https://nanotemper-my.sharepoint.com/:f:/g/personal/jonathan_derix_nanotempertech_com/EhjK_Zb7FTBJn2_K2SapgE0B9G3NcQJ_-elbG_3iylfElQ?e=MQR6ai 
+- Website of NSM inventor Envue: https://www.envue-technologies.com/technology
+- Nature Paper: https://www.nature.com/articles/s41592-022-01491-6
+- Challenge data: https://nanotemper-my.sharepoint.com/:f:/g/personal/jonathan_derix_nanotempertech_com/EhjK_Zb7FTBJn2_K2SapgE0B9G3NcQJ_-elbG_3iylfElQ?e=MQR6ai 
